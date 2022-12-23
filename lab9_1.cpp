@@ -1,6 +1,24 @@
 #include <iostream>
 using namespace std;
 
+int main(){
+  char rank ;
+  cout << "Input your rank: ";
+  cin >> rank;
+  if 
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
 int main()
 {
   char rank;
@@ -15,3 +33,4 @@ int main()
   }
   return 0;
 }
+*/
